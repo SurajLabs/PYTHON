@@ -1,0 +1,7 @@
+print("a")
+print("b")
+print("c", end="") # without new line
+print("d", end="")
+
+# IF WE PRINT ANYTHING IT WILL BE PRINTED ON THE NEXT LINE
+# BUT IF WE PRINT SOMETHING WITH END="" IT DOES NOT PRINT A NEW LINE, SO THE NEXT PRINT WILL BE ON THE SAME LINE
